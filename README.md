@@ -16,10 +16,10 @@
   
 ---
 ### About me
-* 🌱 I’m currently studying frontend development on **Kotlin**
-* 👨‍💻 Often resting programming on **Python**
-* 🔗 Reach me by [Teleram](https://t.me/dro0zd)
-* 🌐 I speak English/Russian
+🌱 I’m currently studying frontend development on **Kotlin**\
+👨‍💻 Often resting programming on **Python**\
+🔗 Reach me by [Teleram](https://t.me/dro0zd)\
+🌐 I speak English/Russian
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
