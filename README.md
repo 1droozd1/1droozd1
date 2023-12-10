@@ -19,12 +19,12 @@
 </div>
   
 ### About me
-🌱 I’m currently studying frontend development on **Swift**\
-👨‍💻 Often resting programming on **Python**\
+🌱 I’m currently studying backend development on **Python**\
+👨‍💻 Often resting programming on **Swift**\
 🔗 Reach me by [Teleram](https://t.me/dro0zd)\
 🌐 I speak English/Russian
   
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -35,5 +35,5 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1droozd1&theme=aura_dark)
