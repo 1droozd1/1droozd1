@@ -32,8 +32,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
-
----
-
-### My Stats :
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1droozd1&theme=aura_dark)
