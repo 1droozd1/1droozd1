@@ -19,13 +19,11 @@
   
 ### About me
 🌱 I’m currently studying backend development on **Python**\
-👨‍💻 Often resting programming on **Swift**\
 🔗 Reach me by [Teleram](https://t.me/dro0zd)\
 🌐 I speak English/Russian
   
 ### Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C/C++" alt="C/C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
